@@ -7,6 +7,7 @@ class Aula03{
         char letra = 'c'
         float valor = 5.3f;
         string nome = "Vinicius";
+        bool = true;
 
         var aux = 10; // O tipo é determinado na atribuição e declaração
 
