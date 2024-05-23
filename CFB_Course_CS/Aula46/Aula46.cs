@@ -14,7 +14,9 @@ class Galinha{
 }
 
 class Ovo{
-    public Ovo(){
+    private string nomeGalinha;
+    private int numOvo;
+    public Ovo(numOvo, nomeGalinha){
         Console.WriteLine("Ovo criado");
     }
 }
